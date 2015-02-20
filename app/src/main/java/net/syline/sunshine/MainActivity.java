@@ -82,7 +82,7 @@ public class MainActivity extends ActionBarActivity {
                     "Friday - Purple - 86/21",
                     "Saturday - Nether - 86/21",
                     "Sunday - Ancient One - 86/21",
-                    "Sunday - Ancient One - 86/21",
+                    "Sunday - Ancient Two - 86/21",
                     "Sunday - Ancient One - 86/21",
                     "Sunday - Ancient One - 86/21",
                     "Sunday - Ancient One - 86/21",
