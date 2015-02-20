@@ -75,22 +75,22 @@ public class MainActivity extends ActionBarActivity {
 
 
             String[] forecastArray = {
-                    "Today - Sunny - 86/21",
-                    "Tomorrow - Foggy - 86/21",
-                    "Weds - Cloudy - 86/21",
-                    "Thrs - Unknown - 86/21",
-                    "Friday - Purple - 86/21",
-                    "Saturday - Nether - 86/21",
-                    "Sunday - Ancient One - 86/21",
-                    "Sunday - Ancient Two - 86/21",
-                    "Sunday - Ancient One - 86/21",
-                    "Sunday - Ancient One - 86/21",
-                    "Sunday - Ancient One - 86/21",
-                    "Sunday - Ancient One - 86/21",
-                    "Sunday - Ancient One - 86/21",
-                    "Sunday - Ancient One - 86/21",
-                    "Sunday - Ancient One - 86/21",
-                    "Sunday - Ancient One - 86/21"
+                    "Today     - Sunny            - 86/21",
+                    "Tomorrow  - Foggy            - 86/21",
+                    "Wednesday - Cloudy           - 86/21",
+                    "Thursday  - Unknown          - 86/21",
+                    "Friday    - Purple           - 86/21",
+                    "Saturday  - Nether           - 86/21",
+                    "Sunday    - Ancient One      - 86/21",
+                    "Monday    - Ancient Two      - 86/21",
+                    "Tuesday   - Partially Cloudy - 86/21",
+                    "Sunday    - Lots of Sun      - 86/21",
+                    "Monday    - Explosions       - 86/21",
+                    "Tuesday   - Beginner Violin  - 86/21",
+                    "Wednesday - Beginner Cello   - 86/21",
+                    "Thursday  - !@#$%^&*()_+     - 86/21",
+                    "Friday    - Yosemity         - 86/21",
+                    "Saturday  - Cuthulu          - 86/21"
             };
 
             List<String> weekForecast = new ArrayList<String>(
