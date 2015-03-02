@@ -73,7 +73,9 @@ public class MainActivity extends ActionBarActivity {
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
 
-
+            /**
+             * http://api.openweathermap.org/data/2.5/weather?q=94043,USA&cnt=7&units=metric&mode=json
+             */
             String[] forecastArray = {
                     "Today     - Sunny            - 86/21",
                     "Tomorrow  - Foggy            - 86/21",
